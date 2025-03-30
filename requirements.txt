@@ -2,4 +2,4 @@ streamlit
 openai
 asyncio
 agents
-tensorflow
+pip install tensorflow==1.15
